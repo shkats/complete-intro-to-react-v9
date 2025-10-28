@@ -26,3 +26,6 @@ export default function Header(props) {
     </header>
   );
 }
+
+
+@aOrro Anton I am sorry, I am learning react. So cool, can we just talk? 
